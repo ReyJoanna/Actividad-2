@@ -1,0 +1,23 @@
+EJERCICIOS EN CLASDE 
+// ejercicio 1 
+Realiar un programa que resiva una calificacion y muestre una letra en pantalla de
+90 a 100 la letra A 
+de 80 a 89  la letra B
+de 70 a 79 la letrA C
+de 60 a 69 la letra D 
+y para el resto de calificaciones la letra F
+
+// ejercicico 2 
+realizar un programa que resiva un numero y nos muestre el dia de la semana a la que corresponde ese numero 
+1 al 7 
+lunes martes miercoles jueves viernes sabado domingo 
+
+
+      realizarlo con un swich y con if else 
+
+ejercicio 3 
+realizar un porogram aque calcule el descuento de los articulos comprados en el siguiente orde: 
+0 a 10 el 5%
+11 a 20 el 10%
+apartir del 21 en adelnte el 15% 
+y una vez que trmino de calcular el descuento , incremenete el 16% de IVA E IMPRIMA EL TOTAL DE LA COMPRA 
