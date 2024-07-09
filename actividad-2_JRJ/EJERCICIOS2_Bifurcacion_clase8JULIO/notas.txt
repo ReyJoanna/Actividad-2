@@ -1,0 +1,11 @@
+ejercicio1:
+realizar un programa que realice la suma de todos los numeros pares del 0 al 1000 
+
+
+ejercicio2 :
+realizar un porgrma que realice la suma de todos los numero s impares del 0 al 1000
+
+
+ejercicio3:
+realizar un porgrama que muestre todos los numeros primos que se ubiquen en el rango que el usuario elija 
+
